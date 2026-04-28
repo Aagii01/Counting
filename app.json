@@ -1,0 +1,7 @@
+{
+  "name": "Shop_Counting",
+  "displayName": "Onis Toollogo",
+  "android": {
+    "package": "com.shop_counting"
+  }
+}
